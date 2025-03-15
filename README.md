@@ -2,8 +2,8 @@
 🔭 I’m currently working on<br>As a Data Engineer, I work with AWS Glue, S3, Athena, and Spark, developing and optimizing data pipelines.<br><br>👯 I’m looking to collaborate on<br>Data analysis projects, ETL process optimization, and scalable data architectures.<br><br>🤝 I’m looking for help with<br>Enhancing my expertise in cloud technologies, big data architectures, and advanced data engineering techniques.<br><br>🌱 I’m currently learning<br>Advanced data engineering, including cloud solutions, pipeline optimization, and best practices in data management.<br><br>💬 About me<br>I am a Systems and Telecommunications Engineer with over 2 years of experience in the banking sector and BI processes. My expertise includes:<br><br>* Data engineering & ETL development: Data migration and quality using InfoSphere DataStage and QualityStage, ODI (Oracle Data Integrator), Integration Services, Python, and AWS.<br>* Programming languages: Python, Java, JavaScript, PHP.<br>* Version control: GitHub.<br>* Databases: Oracle, SQL Server, MySQL, DB2, PostgreSQL, MongoDB.<br>* Agile methodologies: SCRUM, KANBAN, SCRUMBAN.<br>* Project planning & tracking tools: JIRA.<br>* Big Data & analytics: Hadoop, Spark.<br>* Data visualization: Power BI, Amazon QuickSight, Google Data Studio.<br>* Software development: Analysis, estimation, requirement development, and unit testing.<br>⚡ Fun fact<br>I am passionate about photography 📸, going to the gym 💪, and exploring new places and cultures 🌍. I love learning from people and sharing knowledge.<br><br>
 
 ## :zap: Recent activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maria_c_rdona) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-cardona-96b186163/) 
