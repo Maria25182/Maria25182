@@ -3,12 +3,14 @@
 
 ## :zap: Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Maria25182/etl-test](https://github.com/Maria25182/etl-test)<br>
-2. ⬆️ Pushed undefined commit(s) to [Maria25182/etl-test](https://github.com/Maria25182/etl-test)<br>
-3. ⬆️ Pushed undefined commit(s) to [Maria25182/etl-test](https://github.com/Maria25182/etl-test)<br>
+1. ⬆️ Pushed undefined commit(s) to [Maria25182/techtalk-ai-frontend](https://github.com/Maria25182/techtalk-ai-frontend)<br>
+2. ⬆️ Pushed undefined commit(s) to [Maria25182/techtalk-ai-backend](https://github.com/Maria25182/techtalk-ai-backend)<br>
+3. ⬆️ Pushed undefined commit(s) to [Maria25182/techtalk-ai-frontend](https://github.com/Maria25182/techtalk-ai-frontend)<br>
+4. ⬆️ Pushed undefined commit(s) to [Maria25182/techtalk-ai-frontend](https://github.com/Maria25182/techtalk-ai-frontend)<br>
+5. ⬆️ Pushed undefined commit(s) to [Maria25182/techtalk-ai-backend](https://github.com/Maria25182/techtalk-ai-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 24th, 2026, 1:09:16 AM
+Last Updated: Tuesday, March 24th, 2026, 12:45:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🌐 Socials:
