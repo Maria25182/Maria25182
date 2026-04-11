@@ -3,14 +3,14 @@
 
 ## :zap: Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Maria25182/techtalk-ai-frontend](https://github.com/Maria25182/techtalk-ai-frontend)<br>
-2. ⬆️ Pushed undefined commit(s) to [Maria25182/techtalk-ai-backend](https://github.com/Maria25182/techtalk-ai-backend)<br>
-3. ⬆️ Pushed undefined commit(s) to [Maria25182/techtalk-ai-frontend](https://github.com/Maria25182/techtalk-ai-frontend)<br>
+1. ⭐ Starred [aminespinoza10/LLM-Observability](https://github.com/aminespinoza10/LLM-Observability)<br>
+2. ⬆️ Pushed undefined commit(s) to [Maria25182/techtalk-ai-frontend](https://github.com/Maria25182/techtalk-ai-frontend)<br>
+3. ⬆️ Pushed undefined commit(s) to [Maria25182/techtalk-ai-backend](https://github.com/Maria25182/techtalk-ai-backend)<br>
 4. ⬆️ Pushed undefined commit(s) to [Maria25182/techtalk-ai-frontend](https://github.com/Maria25182/techtalk-ai-frontend)<br>
-5. ⬆️ Pushed undefined commit(s) to [Maria25182/techtalk-ai-backend](https://github.com/Maria25182/techtalk-ai-backend)<br>
+5. ⬆️ Pushed undefined commit(s) to [Maria25182/techtalk-ai-frontend](https://github.com/Maria25182/techtalk-ai-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 10th, 2026, 2:03:50 PM
+Last Updated: Saturday, April 11th, 2026, 1:18:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🌐 Socials:
