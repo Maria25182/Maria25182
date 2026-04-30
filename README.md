@@ -3,11 +3,9 @@
 
 ## :zap: Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Maria25182/data_cleaning_project](https://github.com/Maria25182/data_cleaning_project)<br>
-2. ⭐ Starred [aminespinoza10/LLM-Observability](https://github.com/aminespinoza10/LLM-Observability)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 30th, 2026, 1:58:32 AM
+Last Updated: Thursday, April 30th, 2026, 1:19:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🌐 Socials:
